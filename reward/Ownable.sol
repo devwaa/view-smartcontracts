@@ -2,7 +2,7 @@ pragma solidity ^0.6.2;
 
 // SPDX-License-Identifier: MIT License
 
-import "https://github.com/devwaa/view-smartcontracts/new/main/reward/Context.sol";
+import "https://github.com/devwaa/view-smartcontracts/blob/main/reward/Context.sol";
 
 contract Ownable is Context {
     address private _owner;
