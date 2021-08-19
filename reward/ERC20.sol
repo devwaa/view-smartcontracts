@@ -2,10 +2,10 @@
 
 pragma solidity ^0.6.2;
 
-import "https://github.com/devwaa/view-smartcontracts/new/main/reward/IERC20.sol";
-import "https://github.com/devwaa/view-smartcontracts/new/main/reward/IERC20Metadata.sol";
-import "https://github.com/devwaa/view-smartcontracts/new/main/reward/Context.sol";
-import "https://github.com/devwaa/view-smartcontracts/new/main/reward/SafeMath.sol";
+import "https://github.com/devwaa/view-smartcontracts/blob/main/reward/IERC20.sol";
+import "https://github.com/devwaa/view-smartcontracts/blob/main/reward/IERC20Metadata.sol";
+import "https://github.com/devwaa/view-smartcontracts/blob/main/reward/Context.sol";
+import "https://github.com/devwaa/view-smartcontracts/blob/main/reward/SafeMath.sol";
 
 /**
  * @dev Implementation of the {IERC20} interface.
