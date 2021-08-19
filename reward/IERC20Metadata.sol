@@ -2,7 +2,7 @@
 
 pragma solidity ^0.6.2;
 
-import "https://github.com/devwaa/view-smartcontracts/new/main/reward/IERC20.sol";
+import "https://github.com/devwaa/view-smartcontracts/blob/main/reward/IERC20.sol";
 
 /**
  * @dev Interface for the optional metadata functions from the ERC20 standard.
